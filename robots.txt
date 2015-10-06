@@ -1,0 +1,4 @@
+# Règle pour tous les robots
+User-agent: *
+Disallow: /php/
+Sitemap: http://xxxx.polinux.fr/sitemap.xml
